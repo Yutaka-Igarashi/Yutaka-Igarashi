@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to My GitHub! I'm Yutaka Igarashi. 👋
 
 I am an experienced IT professional with over 20 years in the industry, specializing in algorithm development, software solutions, and Building Information Modeling (BIM). I founded my own company in 2020, where we provide cutting-edge information services and software development.
 
