@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Yutaka-Igarashi/Yutaka-Igarashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced IT professional with over 20 years in the industry, specializing in algorithm development, software solutions, and Building Information Modeling (BIM). I founded my own company in 2020, where we provide cutting-edge information services and software development.
 
-Here are some ideas to get you started:
+🛠️ Skills and Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Programming Languages: VB.net, VBA, C, C++, C#, Python
+    Algorithm Development: Developed unique algorithms and secured patents.
+    Software Solutions: Successfully developed and sold Mahjong games.
+    BIM and CAD Systems: Expertise in Revit add-ins and CAD system development, highly regarded by national research institutes.
+    AI and Machine Learning: Enthusiastic about AI, ranked in the top 0.5% in Kaggle's 'Housing Prices Competition for Kaggle Learn Users'.
+
+🎓 Academic Background
+
+I have a strong foundation in mathematics, with outstanding achievements during my academic years, including ranking first in courses requiring analytical and problem-solving skills. This mathematical thinking has been instrumental in my career, particularly in developing innovative algorithms and solving complex technical challenges.
+
